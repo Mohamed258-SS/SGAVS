@@ -1,0 +1,16 @@
+
+websites:-
+https://deepai.org/machine-learning-model/text2img
+https://www.iloveimg.com/resize-image
+https://image.online-convert.com/convert-to-ico
+https://www.b3multimedia.ie/beautiful-color-gradients-for-your-next-design-project/
+https://www.virustotal.com/gui/home/upload
+
+
+libraries:-
+pip install requests
+python3 -m pip install requests
+pip install hashlib
+pip install python-time
+pip install auto-py-to-exe
+
