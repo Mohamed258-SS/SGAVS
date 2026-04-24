@@ -1,7 +1,6 @@
 # SwiftGuard Antivirus System (SGAVS) 🛡️
 
 [![Project Logo](image-url)](image-url)  
-*(Replace `image-url` with the actual URL of your project logo.)*
 
 ---
 
